@@ -46,3 +46,6 @@ How It Works
         RetryInterval: Time in seconds between retries (default: 10).
 
 
+## Acknowledgements
+
+ - [ACanadianDude's : Ultimate BDO Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit?tab=t.0#heading=h.rl325eap4pk9)
