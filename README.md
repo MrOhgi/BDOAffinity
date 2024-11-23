@@ -47,8 +47,11 @@ How It Works
 
 **Important Note on Affinity Configuration:**
 
-    The Affinity value (0x0000000000005554 by default) determines which CPU cores the game uses. Each user must configure this value based on their specific CPU.
-    Refer to the BDO Performance Guide for recommended core usage settings to maximize game performance. Ensure your configuration aligns with these recommendations for the best results.
+    The Affinity value (0x0000000000005554 by default) determines which CPU cores the game uses. 
+        Each user must configure this value based on their specific CPU.
+    
+    Refer to the BDO Performance Guide for recommended core usage settings to maximize game performance. 
+        Ensure your configuration aligns with these recommendations for the best results.
 
 
 ## Acknowledgements
