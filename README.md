@@ -45,7 +45,13 @@ How It Works
         MaxRetries: Maximum retry attempts (default: 5).
         RetryInterval: Time in seconds between retries (default: 10).
 
+**Important Note on Affinity Configuration:**
+
+    The Affinity value (0x0000000000005554 by default) determines which CPU cores the game uses. Each user must configure this value based on their specific CPU.
+    Refer to the BDO Performance Guide for recommended core usage settings to maximize game performance. Ensure your configuration aligns with these recommendations for the best results.
+
 
 ## Acknowledgements
 
  - [ACanadianDude's : Ultimate BDO Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit?tab=t.0#heading=h.rl325eap4pk9)
+ - [CPU Affinity Mask Calculator](https://bitsum.com/tools/cpu-affinity-calculator/)
