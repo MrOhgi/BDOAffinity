@@ -23,11 +23,11 @@ How It Works
 
     Create the Batch File within the Black Desert Online folder:
 
-        1. Open a text editor like Notepad.
-        2. Copy and paste the script code into the text editor.
-        3. Save the file with a .bat extension (e.g., SetAffinity.bat):
-            In the Save As dialog, choose Save as type: All Files.
-            Ensure the file name ends with .bat (e.g., SetAffinity.bat).
+    1. Open a text editor like Notepad.
+    2. Copy and paste the script code into the text editor.
+    3. Save the file with a .bat extension (e.g., SetAffinity.bat):
+        In the Save As dialog, choose Save as type: All Files.
+        Ensure the file name ends with .bat (e.g., SetAffinity.bat).
 
 **Step 2**
 
