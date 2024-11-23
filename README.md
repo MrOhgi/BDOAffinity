@@ -41,9 +41,9 @@ How It Works
 **Edit Configuration (Optional):**
 
     Open the script in a text editor to modify:
-        Affinity: Define the processor affinity mask (default: 0x0000000000005554).
-        MaxRetries: Maximum retry attempts (default: 5).
-        RetryInterval: Time in seconds between retries (default: 10).
+        1. Affinity: Define the processor affinity mask (default: 0x0000000000005554).
+        2. MaxRetries: Maximum retry attempts (default: 5).
+        3. RetryInterval: Time in seconds between retries (default: 10).
 
 **Important Note on Affinity Configuration:**
 
